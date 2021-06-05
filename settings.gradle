@@ -1,0 +1,10 @@
+/*
+ *     Tanggal Pengerjaan : 5/6/2021
+ *     Nim : 10118056
+ *     Nama : Mirraz Ibrahim
+ *     email : mirrazibrahim@gmail.com
+ *     Copyright © 2021 Mirraz Ibrahim. All rights reserved.
+ */
+
+include ':app'
+rootProject.name = "UTSPraktik-IF2-10118056-MirrazIbrahim"
